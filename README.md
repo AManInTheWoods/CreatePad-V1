@@ -49,11 +49,13 @@ CreatePad uses QMK firmware and is highly customizable, even the OLED can be con
 
 <H2>BOM:</H2>
 
-* 1x XIAO RP2040 MCU
+* 1x Seeed XIAO RP2040 MCU
 
 * 9x MX-Style Switches
 
 * 2x EC11 Rotary Encoders
+
+* 11x Through-hole 1N4148 Diodes
 
 * 1x 0.91 Inch OLED Display
 
