@@ -47,3 +47,20 @@ CAD Model, Made in Fusion360 (the free version):
 
 CreatePad uses QMK firmware and is highly customizable, even the OLED can be configured using it! The attatched firmware (as of now) can store up to 10 unique, fully customizable configurations (even the knobs' functions!) through VIA.
 
+<H2>BOM:</H2>
+
+* 1x XIAO RP2040 MCU
+
+* 9x MX-Style Switches
+
+* 2x EC11 Rotary Encoders
+
+* 1x 0.91 Inch OLED Display
+
+* 9x white DSA keycaps
+
+* 4x M3x16mm screws
+
+
+
+that's about it for now :). I learned so much during the process of designing this project, I can't wait to assemble it in the future!
