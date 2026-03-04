@@ -65,4 +65,4 @@ CreatePad uses QMK firmware and is highly customizable, even the OLED can be con
 
 
 
-that's about it for now :). I learned so much during the process of designing this project, I can't wait to assemble it in the future!
+that's about it for now :). I've learned so much during the process of designing this project, I can't wait to assemble it in the future!
