@@ -29,3 +29,17 @@ CAD Model, Made in Fusion360 (the free version):
 
 <img width="1094" height="563" alt="image" src="https://github.com/user-attachments/assets/c9ba929d-4d93-4e2e-b380-28ceaf18d0fd" />
 
+<H2>Schematic & PCB (Made in KiCAD):</H2>
+
+<H3>Schematic:</H3>
+
+<img width="1503" height="876" alt="image" src="https://github.com/user-attachments/assets/a1d29457-f735-443d-acdb-bd7be2624da3" />
+
+<H4>"Behold, The Japanese-Duplex-Matrix"</H4>
+
+<H3>PCB:</H3>
+
+<img width="664" height="846" alt="image" src="https://github.com/user-attachments/assets/112c4f57-12a4-4f8b-af41-233ef3e239e6" />
+
+<H4> *I had such a dilemma making such everything is symmetrical (some still probably aren't)* </H4>
+
