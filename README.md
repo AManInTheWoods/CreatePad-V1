@@ -47,7 +47,7 @@ CAD Model, Made in Fusion360 (the free version):
 
 CreatePad uses custom QMK firmware (because the matrix used is different from a traditional matrix) and is highly customizable, even the OLED can be configured using it! The attatched firmware (as of now) can store up to 10 unique, fully customizable configurations (even the knobs' functions!) through VIA.
 
-<H2>The Japanese-Duplex Matrix</H2>
+<H2>The Japanese Duplex Matrix</H2>
 
 Since the XIAO RP2040 only has 14 pins and only 5 of them are left for button inputs, I had to pick between two choices: 1. Reduce the amount of total physical inputs or 2. Find out if there's another type of matrix that limits the amount of pins even further than that of a traditional matrix. Turns out there is such a thing! It's called a Japanese Duplex Matrix. Everything about it can be read on this webpage: https://kbd.news/The-Japanese-duplex-matrix-1391.html#jpduplex .
 
